@@ -1,0 +1,19 @@
+{
+  "name": "design-pattern",
+  "version": "1.0.0",
+  "description": "JS设计模式",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pengtianyua/js-design-pattern.git"
+  },
+  "author": "pty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pengtianyua/js-design-pattern/issues"
+  },
+  "homepage": "https://github.com/pengtianyua/js-design-pattern#readme"
+}
