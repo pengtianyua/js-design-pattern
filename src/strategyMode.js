@@ -23,7 +23,7 @@ const strategies = {
 		return value >= 1
 	},
 	checkJob: value => {
-		return jobList.indexOf(value) > 1
+		return jobList.indexOf(value) !== 1
 	},
 	checkEatType: value => {
 		return value === 'eat melons'
